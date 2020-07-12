@@ -1,0 +1,86 @@
+body{
+  font-family:Tahoma,Geneva,sans-serif;
+  color:#fff;
+  background:url("https://media.gettyimages.com/photos/sunset-in-paris-picture-id528564074?s=2048x2048"
+);
+
+  background-size:cover;
+}
+.signin{
+  background:rgba(44,62,80,0.7);
+  padding:40px;
+  width:250px;
+  margin: 0 auto;
+  margin-top:80px;
+  height:400px;
+  margin-left:180px;
+  
+}
+form{
+  width:240px;
+  text-align:center;
+  
+}
+input[type=text]
+{
+  width:240px;
+  text-align:center;
+  background:transparent;
+  border:none;
+  border-bottom:
+    1px solid #fff;
+  font-family:'play',sans-serif;
+  font-size:16px;
+  font-weight:200px;
+  padding:10px 0;
+  transition:border 0.5s;
+  outline:none;
+color:white;
+  
+  
+}
+input[type=password]{
+  background:transparent;
+}
+input
+[type=button]{
+  border:none;
+  background:white;
+  width:190px;
+  color:#000;
+  font-size:16px;
+  line-height:25px;
+  padding:10px 0;
+  border-radius:15px;
+  cursor:pointer;
+  
+
+}
+input[type=button]:hover
+{
+  color:#fff;
+  background-color:black;
+  
+}
+h2{
+  color:black;
+}
+a{
+  color:yellow;
+  text-decoration:blink;
+}
+a:hover{
+  color:skyblue;
+  
+}
+.container{
+  display:flex;
+  flex-direction:row;
+  width:100%;
+}
+
+  ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: blue;
+  
+}
+

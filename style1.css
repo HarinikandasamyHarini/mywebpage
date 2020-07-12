@@ -1,0 +1,23 @@
+body{
+  background:url("https://images.pexels.com/photos/460621/pexels-photo-460621.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-size:cover;
+}
+a{
+  color:yellow;
+  font-family:Tahoma,Geneva,sans-serif;
+  margin-left:30px;
+  
+}
+.cong{
+  background:rgba(44,62,80,0.7);
+  padding:40px;
+  height:200px;
+  margin-left:180px;
+  margin-top:120px;
+  margin:0 auto;
+  width:240px;
+    
+}
+h2{
+  margin-top:50px;
+}
